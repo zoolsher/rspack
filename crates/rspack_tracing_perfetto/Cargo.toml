@@ -12,7 +12,7 @@ version                 = "0.2.0"
 [dependencies]
 bytes               = { version = "*" }
 micromegas-perfetto = { version = "*" }
-prost               = "0.13"
+prost               = "0.13.5"
 tracing             = { workspace = true }
 tracing-subscriber  = { workspace = true }
 [lints]
